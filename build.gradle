@@ -8,10 +8,10 @@ plugins {
 }
 
 group = 'com.zyxist'
-version = '0.3.1'
+version = '0.3.2-SNAPSHOT'
 
-targetCompatibility = '1.8'
-sourceCompatibility = '1.8'
+targetCompatibility = '11'
+sourceCompatibility = '11'
 
 // Fix a bad interaction with IntelliJ and Gradle > 4.0
 idea.module.inheritOutputDirs = true
